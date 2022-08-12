@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: lmbernardo.github.io
-Token: 315a9046cd88e0c91cdbc852963e6a33bcb48ecd1f753eaf6e5c817cf19050a4
+Token: 6d4f9927ab4fa16ef797d7d0ab394fdf118d4808a714e93aa787fec858ac2bb0
